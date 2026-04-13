@@ -1,0 +1,22 @@
+.download-page {
+    background-color: #f4f4f4;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.download-page h1 {
+    color: #333;
+}
+
+.download-page .download-button {
+    display: inline-block;
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.download-page .download-button:hover {
+    background-color: #0056b3;
+}
